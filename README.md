@@ -10,7 +10,7 @@ I'm Frontend developer
 <code><img src="https://blog.submain.com/wp-content/uploads/2020/12/typescript_2500.png" width="40px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="40x"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="40px"></code>
-<code><img src="https://yt3.ggpht.com/a/AGF-l79K609j-FRn60rSKQGVxSPW9srH9Zc27PcqyA=s900-c-k-c0xffffffff-no-rj-mo" width="40px"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" width="40px"></code>
 <br />
 - 🏴‍☠️ UZBEKISTAN_Samarkand
 - 📲 +998911035678
