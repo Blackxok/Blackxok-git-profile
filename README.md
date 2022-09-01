@@ -11,6 +11,8 @@ I'm Frontend developer
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="40x"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="40px"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" width="40px"></code>
+<code><img src="https://m.media-amazon.com/images/I/519wrpYos1L.jpg" width="40px"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" width="40px"></code>
 <br />
 - 🏴‍☠️ UZBEKISTAN_Samarkand
 - 📲 +998911035678
