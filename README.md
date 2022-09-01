@@ -1,7 +1,7 @@
 Assalomu alekum  
 I'm Frontend developer
 ### Technologies I work with
-<code><img src="https://e7.pngegg.com/pngimages/246/125/png-clipart-web-development-html-software-development-software-developer-mobile-app-development-web-design-angle-web-design.png" width="40px"></code>
+<code><img src="https://www.desura.com/files/images/65/65f875b0aa3b0eb635d4f76bfebca0f6_70.png" width="40px"></code>
 <code><img src="https://brainskills.ru/upload/iblock/dd5/dd54aec841b7e8facbff18e4b8f48e8a.svg" width="40px"></code>
 <code><img src="https://sjain.io/images/work-logo/web/015.png" width="40px"></code>
 <code><img src="https://camo.githubusercontent.com/b3bfe3904e8da64b75edc1aa4855c81357c40e28811b00dd43079324ce854b02/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f72616d6d696e612f696d6167652f75706c6f61642f76313633323537303933302f706e676567675f70726768716b2e706e67" width="40px"></code>
