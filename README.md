@@ -11,7 +11,7 @@ I'm Frontend developer
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="40x"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="40px"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" width="40px"></code>
-<code><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c941f4dd-6df3-47a7-a955-849c24e189c9.png?auto=format&size=100" width="40px"></code>
+<code><img src="https://www.technopat.net/sosyal/eklenti/_swused-aftereffects-png.1374660/" width="40px"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" width="40px"></code>
 <br />
 - 🏴‍☠️ UZBEKISTAN_Samarkand
